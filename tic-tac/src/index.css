@@ -5,6 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+  align-content: center;
+  border: 2px solid black;
+  /* padding: 100px; */
+  
+
+  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn3.vectorstock.com%2Fi%2F1000x1000%2F26%2F87%2Ftic-tac-toe-game-with-hearts-and-crosses-vector-28182687.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Ftic-tac-toe-game-with-hearts-and-crosses-vector-28182687&tbnid=76jiRUxw3cCdXM&vet=12ahUKEwjW0IbTl938AhWkrycCHYTmD8AQMygMegUIARCNAg..i&docid=HFuTS_3MxVm2hM&w=1000&h=1080&q=tic%20tac%20toe&ved=2ahUKEwjW0IbTl938AhWkrycCHYTmD8AQMygMegUIARCNAg");
 }
 
 code {
